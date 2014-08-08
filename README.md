@@ -1,4 +1,3 @@
-ensayo-escritura
-================
+# Ensayo sobre la escritura
 
-Próximamente disponible
+Próximamente disponible en internet.
