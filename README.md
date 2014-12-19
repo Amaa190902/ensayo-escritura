@@ -1,10 +1,14 @@
 Ensayo sobre la escritura
 =========================
 
+Este libro trata la escritura como una actividad que debemos practicar. Sólo así llegaremos a saber escribir.
+
+Pensar que somos incapaces de escribir bien es el resultado de un conjunto de engaños. Únicamente mediante la práctica, llegaremos componer nuestros textos satisfactoriamente.
+
 Motivación
 ----------
 
-El autor del *Ensayo sobre la escritura* lo ofrece gratuitamente a cualquiera siguiendo un oscuro propósito. Trato de ponerlo a disposición de todas aquellas personas que quieran leerlo, porque entiende que puede llegar a ser útil para bastante gente.
+Ofrezco *Ensayo sobre la escritura* gratuitamente a cualquiera siguiendo un oscuro propósito. Trato de ponerlo a disposición de todas aquellas personas que quieran leerlo, porque entiendo que puede llegar a ser útil para bastante gente.
 
 El trato está en lo que puede ser un pacto de nobleza:
 
@@ -40,17 +44,17 @@ Descarga
 
 *Ensayo sobre la escritura* se ofrece gratuitamente en tres formatos:
 
--   [Documento ePub](ensayo-escritura.epub), compatible con lectores de libros electrónicos.
+-   [Documento ePub](https://archive.org/download/ensayo-escritura/ensayo-escritura.epub), compatible con lectores de libros electrónicos.
 
--   [Documento AZW](ensayo-escritura.azw), compatible con lectores *Kindle*.
+-   [Documento AZW](https://archive.org/download/ensayo-escritura/ensayo-escritura.azw), compatible con lectores *Kindle*.
 
--   [Documento PDF](ensayo-escritura.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
+-   [Documento PDF](https://archive.org/download/ensayo-escritura/ensayo-escritura.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
 
-Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](http://github.com/ousia/ensayo-escritura/issues).
+Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://archive.org/download/ensayo-escritura/http://github.com/ousia/ensayo-escritura/issues).
 
 ### Versión con notas
 
-Para quien quiera la versión con notas —por su cuenta y riesgo—, puede descargarla en los tres formatos anteriores: [documento ePub](ensayo-escritura_notas.epub), [documento AZW](ensayo-escritura_notas.azw) y [documento PDF](ensayo-escritura_notas.pdf).
+Para quien quiera la versión con notas —por su cuenta y riesgo—, puede descargarla en los tres formatos anteriores: [documento ePub](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.epub), [documento AZW](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.azw) y [documento PDF](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.pdf).
 
 ### Cómo conseguir el libro en papel
 
@@ -109,5 +113,11 @@ Además de necesidades para las que es necesario dinero, te pediría que conside
 Historial de versiones
 ----------------------
 
-El historial de versiones está pendiente todavía de inauguración. Tengo que solucionar algunos pequeños detalles antes de poder publicar el libro en internet.
+Las versiones se ordenan de menor a mayor. La clave es una referencia de publicación en un almacén `git` privado. Si esto último no entiendes qué es, no importa. Es sólo por seguridad.
+
+Los archivos puede que tarden un tiempo en estar disponibles para descargas.
+
+Versión 1.0  
+Primera versión publicada (clave `b6db91e11a30cea91abfb1c632f203f61b82a294`).
+
 
