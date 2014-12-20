@@ -117,6 +117,9 @@ Las versiones se ordenan de menor a mayor. La clave es una referencia de publica
 
 Los archivos puede que tarden un tiempo en estar disponibles para descargas.
 
+Versión 1.0.1  
+Mejora en notas al pie en ePub y AZW (clave `34015324713eced1df570de5c7647063e4354442`).
+
 Versión 1.0  
 Primera versión publicada (clave `b6db91e11a30cea91abfb1c632f203f61b82a294`).
 
