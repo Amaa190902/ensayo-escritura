@@ -115,8 +115,6 @@ Historial de versiones
 
 Las versiones se ordenan de menor a mayor. La clave es una referencia de publicación en un almacén `git` privado. Si esto último no entiendes qué es, no importa. Es sólo por seguridad.
 
-Los archivos puede que tarden un tiempo en estar disponibles para descargas.
-
 Versión 1.0.1  
 Mejora en notas al pie en ePub y AZW (clave `34015324713eced1df570de5c7647063e4354442`).
 
