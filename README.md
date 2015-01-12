@@ -115,9 +115,8 @@ Historial de versiones
 
 Las versiones se ordenan de menor a mayor. La clave es una referencia de publicación en un almacén `git` privado. Si esto último no entiendes qué es, no importa. Es sólo por seguridad.
 
-Versión 1.1
-
-: Nueva portada y pequeñas correcciones (clave `e43372bc1a3dba3c6bd452018ada612f7c4fe654`).
+Versión 1.1  
+Nueva portada y pequeñas correcciones (clave `e43372bc1a3dba3c6bd452018ada612f7c4fe654`).
 
 Versión 1.0.1  
 Mejora en notas al pie en ePub y AZW (clave `34015324713eced1df570de5c7647063e4354442`).
