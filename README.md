@@ -70,6 +70,8 @@ Para conseguir la mejor impresión, es necesario que tengas en cuenta lo siguien
 
 3.  El formato de página es DIN A4 y debe imprimirse a doble cara, girando el borde largo.
 
+    Si se usa una versión de *Acrobat Reader* superior a 9, no hay que configurar nada. Las opciones de impresión están ya en el archivo PDF.
+
 4.  Una vez imprimidas las páginas, pueden imprimirte la primera página en una cartulina. Sería la portada, que puede estar repetida.
 
 5.  Con la impresión completa, se cortan las hojas DIN A4 por la mitad, quedando dos grupos de hojas DIN A5 apaisadas. Cada uno de los grupos es un libro completo.
@@ -114,6 +116,9 @@ Historial de versiones
 ----------------------
 
 Las versiones se ordenan de menor a mayor. La clave es una referencia de publicación en un almacén `git` privado. Si esto último no entiendes qué es, no importa. Es sólo por seguridad.
+
+Versión 1.2  
+Primera versión generada de modo totalmente automático, con varias correcciones menores (clave `756f21cf4a6bfde10fd5c8dba7401f3b109fdfbe`).
 
 Versión 1.1  
 Nueva portada y pequeñas correcciones (clave `e43372bc1a3dba3c6bd452018ada612f7c4fe654`).
