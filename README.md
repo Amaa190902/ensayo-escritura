@@ -50,7 +50,7 @@ Descarga
 
 -   [Documento PDF](https://archive.org/download/ensayo-escritura/ensayo-escritura.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
 
-Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://archive.org/download/ensayo-escritura/http://github.com/ousia/ensayo-escritura/issues).
+Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/ensayo-escritura/issues).
 
 ### Versión con notas
 
