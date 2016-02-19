@@ -76,11 +76,11 @@ Para conseguir la mejor impresión, es necesario que tengas en cuenta lo siguien
 
 -    Con cada uno de los libros ya cortados, hay dos posibilidades:
 
-    a. La primera es doblar las hojas DIN A5 apaisadas por la mitad en dos DIN A6. Una vez dobladas, se ponen dos grapas en el centro y queda bastante bien —así lo he hecho yo—.
+    1. La primera es doblar las hojas DIN A5 apaisadas por la mitad en dos DIN A6. Una vez dobladas, se ponen dos grapas en el centro y queda bastante bien —así lo he hecho yo—.
 
         Para poder grapar el libro necesitan una grapadora que sea capaz de grapar 50 hojas, aunque en realidad sean menos. Y que sea lo suficientemente larga para llegar al centro del libro. El ancho de una hoja DIN A6 es de 105 milímetros.
 
-    a. Si no tienen una grapadora que permita hacer el folleto anterior, sólo cabe cortar los dos grupos de hojas DIN A6 del grupo de DIN A5 apaisado.
+    1. Si no tienen una grapadora que permita hacer el folleto anterior, sólo cabe cortar los dos grupos de hojas DIN A6 del grupo de DIN A5 apaisado.
 
         Una vez cortados los dos grupos, se juntan ordenados. Después nos pueden encuandernar todas las hojas con una espiral. (No he probado esta opción, porque reconozco que me gusta menos.)
 
