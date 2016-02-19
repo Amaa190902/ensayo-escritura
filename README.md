@@ -13,7 +13,7 @@ El trato está en lo que puede ser un pacto de nobleza:
 
 * Si el libro te gusta, pásale la dirección <http://www.ensayo-escritura.tk> a quien creas que le puede interesar. O dale una copia impresa de la última versión disponible.
 
-* Si crees que hay puntos erróneos o que deben corregirse, abre [una incidencia](http://github.com/ousia/ensayo-escritura/issues) y cuenta en qué debo mejorar.
+* Si crees que hay puntos erróneos o que deben corregirse, abre [una incidencia](https://github.com/ousia/ensayo-escritura/issues/new) y cuenta en qué debo mejorar.
 
 * Si piensas que el libro es malo, agradezco la crítica. Es bueno que sea razonada. Y es necesario que sea respetuoso con las personas.
 
@@ -47,7 +47,7 @@ _Ensayo sobre la escritura_ se ofrece gratuitamente en tres formatos:
 
 * [Documento PDF](https://archive.org/download/ensayo-escritura/ensayo-escritura.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
 
-Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/ensayo-escritura/issues).
+Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/ensayo-escritura/issues/new).
 
 ### Versión con notas
 
@@ -93,7 +93,7 @@ La relación entre los tamaños de papel está dibujada en [este artículo de _W
 
 ## Comentarios
 
-Para cualquier comentario que quieras hacer sobre el libro, te pediría que abrieses [una incidencia](http://github.com/ousia/ensayo-escritura/issues). Las incidencias requieren estar dado de alta en _GitHub_.
+Para cualquier comentario que quieras hacer sobre el libro, te pediría que abrieses [una incidencia](https://github.com/ousia/ensayo-escritura/issues/new). Las incidencias requieren estar dado de alta en _GitHub_.
 
 Supongo que no hace falta explicar lo siguiente, aunque lo explico para que no haya malos entendidos. Todos los comentarios son bienvenidos, especialmente aquellos que sean críticos. Ningún comentario puede faltar al respeto de ninguna persona.
 
