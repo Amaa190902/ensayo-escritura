@@ -60,27 +60,27 @@ Si bien la impresión corre por cuenta de cada cual, la diferencia es mínima. Y
 
 Para conseguir la mejor impresión, es necesario que tengas en cuenta lo siguiente:
 
-*. Por si no está claro, imprime siempre el archivo PDF. Los otros dos archivos son sólo para lectores de libros electrónicos.
+* Por si no está claro, imprime siempre el archivo PDF. Los otros dos archivos son sólo para lectores de libros electrónicos.
 
-*. Es mejor que imprimas en una copistería, en blanco y negro. El libro no tiene ninguna parte en color. Incluso aunque tengas una impresora láser a doble cara en casa, es bastante probable que te salga más caro y peor.
+* Es mejor que imprimas en una copistería, en blanco y negro. El libro no tiene ninguna parte en color. Incluso aunque tengas una impresora láser a doble cara en casa, es bastante probable que te salga más caro y peor.
 
-*. El formato de página es DIN A4 y debe imprimirse a doble cara, girando el borde largo.
+* El formato de página es DIN A4 y debe imprimirse a doble cara, girando el borde largo.
 
     Si se usa una versión de _Acrobat Reader_ superior a 9, no hay que configurar nada. Las opciones de impresión están ya en el archivo PDF.
 
-*. Una vez imprimidas las páginas, pueden imprimirte la primera página en una cartulina. Sería la portada, que puede estar repetida.
+* Una vez imprimidas las páginas, pueden imprimirte la primera página en una cartulina. Sería la portada, que puede estar repetida.
 
-*. Con la impresión completa, se cortan las hojas DIN A4 por la mitad, quedando dos grupos de hojas DIN A5 apaisadas. Cada uno de los grupos es un libro completo.
+* Con la impresión completa, se cortan las hojas DIN A4 por la mitad, quedando dos grupos de hojas DIN A5 apaisadas. Cada uno de los grupos es un libro completo.
 
     Si la guillotina es profesional, será necesario un único corte y quedará mejor. Si la guillotina es de uso doméstico, es probable que necesiten dos o más cortes. Dependiendo de la precisión que hayan tenido, quedará mejor o peor.
 
-*. Con cada uno de los libros ya cortados, hay dos posibilidades:
+-    Con cada uno de los libros ya cortados, hay dos posibilidades:
 
-    * La primera es doblar las hojas DIN A5 apaisadas por la mitad en dos DIN A6. Una vez dobladas, se ponen dos grapas en el centro y queda bastante bien —así lo he hecho yo—.
+    1. La primera es doblar las hojas DIN A5 apaisadas por la mitad en dos DIN A6. Una vez dobladas, se ponen dos grapas en el centro y queda bastante bien —así lo he hecho yo—.
 
         Para poder grapar el libro necesitan una grapadora que sea capaz de grapar 50 hojas, aunque en realidad sean menos. Y que sea lo suficientemente larga para llegar al centro del libro. El ancho de una hoja DIN A6 es de 105 milímetros.
 
-    * Si no tienen una grapadora que permita hacer el folleto anterior, sólo cabe cortar los dos grupos de hojas DIN A6 del grupo de DIN A5 apaisado.
+    1. Si no tienen una grapadora que permita hacer el folleto anterior, sólo cabe cortar los dos grupos de hojas DIN A6 del grupo de DIN A5 apaisado.
 
         Una vez cortados los dos grupos, se juntan ordenados. Después nos pueden encuandernar todas las hojas con una espiral. (No he probado esta opción, porque reconozco que me gusta menos.)
 
