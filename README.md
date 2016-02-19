@@ -1,9 +1,20 @@
-# Ensayo sobre la escritura
-
+# Introducción
 
 Este libro trata la escritura como una actividad que debemos practicar. Sólo así llegaremos a saber escribir.
 
 Pensar que somos incapaces de escribir bien es el resultado de un conjunto de engaños. Únicamente mediante la práctica, llegaremos componer nuestros textos satisfactoriamente.
+
+## Descarga
+
+_Ensayo sobre la escritura_ se ofrece —sujeto a las [condiciones de uso](#condiciones-de-uso)— gratuitamente en tres formatos:
+
+* [Documento ePub](https://archive.org/download/ensayo-escritura/ensayo-escritura.epub), compatible con lectores de libros electrónicos.
+
+* [Documento AZW](https://archive.org/download/ensayo-escritura/ensayo-escritura.azw), compatible con lectores _Kindle_.
+
+* [Documento PDF](https://archive.org/download/ensayo-escritura/ensayo-escritura.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
+
+Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/ensayo-escritura/issues/new).
 
 ## Motivación
 
@@ -36,18 +47,6 @@ Por copia privada, el [artículo 3.4.a) del Real Decreto 1657/2012](https://www.
 Esa falta de cobertura normativa permite el programa de licencias de CEDRO (<https://www.conlicencia.com>). Para que esta entidad pueda cobrar licencias, reguladas por contratos entre CEDRO y autores o editoriales, las obras tienen que estar en su catálogo. _Ensayo sobre la escritura_ no se encuentra en su catálogo.
 
 Por eso, CEDRO o cualquier entidad de gestión colectiva de derechos no pueden cobrar por esta obra: ni con arreglo a ley —no lo permite—, ni por licencia —carecen de autorización—.
-
-## Descarga
-
-_Ensayo sobre la escritura_ se ofrece gratuitamente en tres formatos:
-
-* [Documento ePub](https://archive.org/download/ensayo-escritura/ensayo-escritura.epub), compatible con lectores de libros electrónicos.
-
-* [Documento AZW](https://archive.org/download/ensayo-escritura/ensayo-escritura.azw), compatible con lectores _Kindle_.
-
-* [Documento PDF](https://archive.org/download/ensayo-escritura/ensayo-escritura.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
-
-Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/ensayo-escritura/issues/new).
 
 ### Versión con notas
 
