@@ -16,6 +16,10 @@ _Ensayo sobre la escritura_ se ofrece —sujeto a las [condiciones de uso](#cond
 
 Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/ensayo-escritura/issues/new).
 
+### Versión con notas
+
+Para quien quiera la versión con notas —por su cuenta y riesgo—, puede descargarla en los tres formatos anteriores: [documento ePub](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.epub), [documento AZW](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.azw) y [documento PDF](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.pdf).
+
 ## Motivación
 
 Ofrezco _Ensayo sobre la escritura_ gratuitamente a cualquiera siguiendo un oscuro propósito. Trato de ponerlo a disposición de todas aquellas personas que quieran leerlo, porque entiendo que puede llegar a ser útil para bastante gente.
@@ -47,10 +51,6 @@ Por copia privada, el [artículo 3.4.a) del Real Decreto 1657/2012](https://www.
 Esa falta de cobertura normativa permite el programa de licencias de CEDRO (<https://www.conlicencia.com>). Para que esta entidad pueda cobrar licencias, reguladas por contratos entre CEDRO y autores o editoriales, las obras tienen que estar en su catálogo. _Ensayo sobre la escritura_ no se encuentra en su catálogo.
 
 Por eso, CEDRO o cualquier entidad de gestión colectiva de derechos no pueden cobrar por esta obra: ni con arreglo a ley —no lo permite—, ni por licencia —carecen de autorización—.
-
-### Versión con notas
-
-Para quien quiera la versión con notas —por su cuenta y riesgo—, puede descargarla en los tres formatos anteriores: [documento ePub](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.epub), [documento AZW](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.azw) y [documento PDF](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.pdf).
 
 ### Cómo conseguir el libro en papel
 
