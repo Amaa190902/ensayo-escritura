@@ -4,6 +4,8 @@ Este libro trata la escritura como una actividad que debemos practicar. Sólo as
 
 Pensar que somos incapaces de escribir bien es el resultado de un conjunto de engaños. Únicamente mediante la práctica, llegaremos componer nuestros textos satisfactoriamente.
 
+Por por cierto, el libro tiene una secuela de la parte informática. Se tituta [_Escritura con ordenador. Cómo la informática ayuda a la literatura_](http://www.escritura-ordenador.tk).
+
 ## Descarga
 
 _Ensayo sobre la escritura_ se ofrece —sujeto a las [condiciones de uso](#condiciones-de-uso)— gratuitamente en tres formatos:
