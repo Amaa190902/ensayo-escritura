@@ -16,10 +16,10 @@ _Ensayo sobre la escritura_ se ofrece —sujeto a las [condiciones de uso](#cond
 
 * Documento PDF, en diferentes formas y composiciones:
 
-    &nbsp; | A4 | Carta | Folleto A4 | Folleto carta
+    Texto | A4 | Carta | Folleto A4 | Folleto carta
     ---- | ----- | ------ | ---- | -----
-    Normal | A4 | carta | folleto-A4 | folleto-carta
-    Con notas | A4-notas | notas-carta | notas-folleto-A4 | notas-folleto-carta
+    Normal | [A4](https://archive.org/download/ensayo-escritura/ensayo-escritura_A4.pdf) | [carta](https://archive.org/download/ensayo-escritura/ensayo-escritura_carta.pdf) | [folleto-A4](https://archive.org/download/ensayo-escritura/ensayo-escritura_folleto-A4.pdf) | [folleto-carta](https://archive.org/download/ensayo-escritura/ensayo-escritura_folleto-carta.pdf)
+    Con notas](https://archive.org/download/ensayo-escritura/ensayo-escritura_A4.pdf) | [A4-notas](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas-A4.pdf) | [notas-carta](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas-carta.pdf) | [notas-folleto-A4](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas-folleto-A4.pdf) | [notas-folleto-carta](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas-folleto-carta.pdf) |
 
 
 Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/ensayo-escritura/issues/new).
