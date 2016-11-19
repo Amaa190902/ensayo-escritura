@@ -114,6 +114,8 @@ Las versiones se ordenan de mayor a menor. La clave es una referencia de publica
 
 Versión | Modificaciones
 --------- | -----------------
+1.3.0.1   | Evito error en `pandoc` (clave `bb18ed1`).
+1.3       | Varias correcciones. PDF tamaño carta. PDFs para visualización (clave `ec1079e`).
 1.2       | Primera versión generada de modo totalmente automático, con varias correcciones menores (clave `756f21c`).
 1.1       | Nueva portada y pequeñas correcciones (clave `e43372b`).
 1.0.1     | Mejora en notas al pie en ePub y AZW (clave `3401532`).
