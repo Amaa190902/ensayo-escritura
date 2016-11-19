@@ -8,7 +8,7 @@ Por por cierto, el libro tiene una secuela de la parte informática. Se tituta [
 
 ## Descarga
 
-_Ensayo sobre la escritura_ se ofrece —sujeto a las [condiciones de uso](#condiciones-de-uso)— gratuitamente del siguiente formato:
+_Ensayo sobre la escritura_ se ofrece —sujeto a las [condiciones de uso](#condiciones-de-uso)— gratuitamente del siguiente modo:
 
 * Documento ePub, para cualquier dispositivo lector de libros electrónicos:  [versión normal](https://archive.org/download/ensayo-escritura/ensayo-escritura.epub) y [versión con notas](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.epub).
 
