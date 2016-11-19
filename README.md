@@ -19,7 +19,7 @@ _Ensayo sobre la escritura_ se ofrece —sujeto a las [condiciones de uso](#cond
 &nbsp; | A4 | Carta | Folleto A4 | Folleto carta
 ---- | ----- | ------ | ---- | -----
 Normal | A4 | carta | folleto-A4 | folleto-carta
-Con notas | A4-notas | notas-carta | notas-folleto-A4 | notas-folleto-A4
+Con notas | A4-notas | notas-carta | notas-folleto-A4 | notas-folleto-carta
 
 
 Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/ensayo-escritura/issues/new).
