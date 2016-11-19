@@ -12,7 +12,7 @@ _Ensayo sobre la escritura_ se ofrece —sujeto a las [condiciones de uso](#cond
 
 * Documento ePub, para cualquier dispositivo lector de libros electrónicos:  [versión normal](https://archive.org/download/ensayo-escritura/ensayo-escritura.epub) y [versión con notas](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.epub).
 
-* Documento AZW, compatible con lectores _Kindle: [versión normal](https://archive.org/download/ensayo-escritura/ensayo-escritura.azw) y [versión con notas](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.azw).
+* Documento AZW, compatible con lectores _Kindle_: [versión normal](https://archive.org/download/ensayo-escritura/ensayo-escritura.azw) y [versión con notas](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.azw).
 
 * Documento PDF, en diferentes formas y composiciones:
 
