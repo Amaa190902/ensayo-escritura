@@ -125,7 +125,7 @@ Además de necesidades para las que es necesario dinero, te pediría que conside
 Las versiones se ordenan de mayor a menor. La clave es una referencia de publicación en un almacén `git` privado. Si esto último no entiendes qué es, no importa. Es sólo por seguridad.
 
 Versión   | Modificaciones
-:--------- | :-----------------
+:-------- | :-----------------
 1.3.1     | Correcciones varias (clave `f4e23ba`).
 1.3       | Varias correcciones. PDF tamaño carta. PDFs para visualización (clave `ec1079e`).
 1.2       | Primera versión generada de modo totalmente automático, con varias correcciones menores (clave `756f21c`).
