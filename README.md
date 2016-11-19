@@ -17,7 +17,7 @@ _Ensayo sobre la escritura_ se ofrece —sujeto a las [condiciones de uso](#cond
 * Documento PDF, en diferentes formas y composiciones:
 
     Texto | A4 | Carta | Folleto A4 | Folleto carta
-    <!--- ---- | ----- | ------ | ---- | ----- -->
+    ---- | ----- | ------ | ---- | -----
     Normal | [A4](https://archive.org/download/ensayo-escritura/ensayo-escritura_A4.pdf) | [carta](https://archive.org/download/ensayo-escritura/ensayo-escritura_carta.pdf) | [folleto-A4](https://archive.org/download/ensayo-escritura/ensayo-escritura_folleto-A4.pdf) | [folleto-carta](https://archive.org/download/ensayo-escritura/ensayo-escritura_folleto-carta.pdf)
     Con notas | [A4-notas](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas-A4.pdf) | [notas-carta](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas-carta.pdf) | [notas-folleto-A4](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas-folleto-A4.pdf) | [notas-folleto-carta](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas-folleto-carta.pdf) |
 
@@ -125,7 +125,7 @@ Además de necesidades para las que es necesario dinero, te pediría que conside
 Las versiones se ordenan de mayor a menor. La clave es una referencia de publicación en un almacén `git` privado. Si esto último no entiendes qué es, no importa. Es sólo por seguridad.
 
 Versión   | Modificaciones
-<!-- --------- | ----------------- -->
+--------- | -----------------
 1.3.1     | Correcciones varias (clave `f4e23ba`).
 1.3       | Varias correcciones. PDF tamaño carta. PDFs para visualización (clave `ec1079e`).
 1.2       | Primera versión generada de modo totalmente automático, con varias correcciones menores (clave `756f21c`).
