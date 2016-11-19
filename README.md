@@ -8,19 +8,31 @@ Por por cierto, el libro tiene una secuela de la parte informática. Se tituta [
 
 ## Descarga
 
-_Ensayo sobre la escritura_ se ofrece —sujeto a las [condiciones de uso](#condiciones-de-uso)— gratuitamente en tres formatos:
+_Ensayo sobre la escritura_ se ofrece —sujeto a las [condiciones de uso](#condiciones-de-uso)— gratuitamente del siguiente formato:
 
-* [Documento ePub](https://archive.org/download/ensayo-escritura/ensayo-escritura.epub), compatible con lectores de libros electrónicos.
+* Documento ePub, para cualquier dispositivo lector de libros electrónicos:  [versión normal](https://archive.org/download/ensayo-escritura/ensayo-escritura.epub) y [versión con notas](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.epub).
 
-* [Documento AZW](https://archive.org/download/ensayo-escritura/ensayo-escritura.azw), compatible con lectores _Kindle_.
+* Documento AZW, compatible con lectores _Kindle: [versión normal](https://archive.org/download/ensayo-escritura/ensayo-escritura.azw) y [versión con notas](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.azw).
 
-* [Documento PDF](https://archive.org/download/ensayo-escritura/ensayo-escritura.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
+* Documento PDF, en diferentes formas y composiciones:
+
+&nbsp; | A4 | Carta | Folleto A4 | Folleto carta
+---- | ----- | ------ | ---- | -----
+Normal | A4 | carta | folleto-A4 | folleto-carta
+Con notas | A4-notas | notas-carta | notas-folleto-A4 | notas-folleto-A4
+
 
 Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/ensayo-escritura/issues/new).
 
-### Versión con notas
+### Advertencia sobre las diferentes versiones
 
-Para quien quiera la versión con notas —por su cuenta y riesgo—, puede descargarla en los tres formatos anteriores: [documento ePub](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.epub), [documento AZW](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.azw) y [documento PDF](https://archive.org/download/ensayo-escritura/ensayo-escritura_notas.pdf).
+Todas las versiones están generadas automáticamente de un mismo texto. Por eso, hay que tener en cuenta lo siguiente:
+
+1. No tengo ningún control sobre la versión AZW. Se convierte con _calibre_. Además, no tengo ningún dispositivo _Kindle_ para comprobar cómo queda.
+
+1. La composición de los documentos PDF en tamaño carta puede tener algún espacio en blanco en los cambios de página. Se debe a que el texto está más adaptado a tamaño DIN A4.
+
+Como cuestión final, la versión con notas sólo contiene mayor información. En la mayoría de los casos, no es decisiva para quien lea. Seguro que no lo es para la comprensión de _Ensayo sobre la escritura_.
 
 ## Motivación
 
@@ -114,7 +126,7 @@ Las versiones se ordenan de mayor a menor. La clave es una referencia de publica
 
 Versión | Modificaciones
 --------- | -----------------
-1.3.0.1   | Evito error en `pandoc` (clave `bb18ed1`).
+1.3.0.1   | Evito error en `pandoc` y corrección menor (clave `3da59f1`).
 1.3       | Varias correcciones. PDF tamaño carta. PDFs para visualización (clave `ec1079e`).
 1.2       | Primera versión generada de modo totalmente automático, con varias correcciones menores (clave `756f21c`).
 1.1       | Nueva portada y pequeñas correcciones (clave `e43372b`).
